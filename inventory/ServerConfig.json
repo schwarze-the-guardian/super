@@ -1,0 +1,72 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "822948406644965396",
+"BanSpearID": "813358083974627338",
+"JailSpearID": "813358083974627338",
+"MuteSpearID": "813358084537450496",
+"VoiceMuteSpearID": "822948196132716600",
+"AbilityID": "822948361527230514",
+"OzelRol": ""
+},
+
+"Channels": {
+"RulesLogChannelID": "824644984443633724",
+"BanLogChannelID": "824645147978366976",
+"JailLogChannelID": "824645036569919488",
+"MuteLogChannelID": "824645055762923570",
+"VoiceMuteLogChannelID": "824645104853712968"
+},
+
+"Penalties": {
+"JailRole": "824643614059659349",
+"MuteRole": "824643610846167121",
+"YasakliTag": "824643615095390208"
+},
+
+"ServerSettings": {
+"GuildID": "810792710201671680",
+"GuildName": "Bot Deneme",
+"KatildiRol": "824644345633570897",
+"ToplantiKanal": "824645661180952616",
+"UnregisterID": "824643615874613288",
+
+"ServerTag": "✵",
+"UnTag": "✵"
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "<:OnayPng:815154572834242571>",
+"False": "<:ReddetmekPng:815154565195759656>",
+"TrueID": "815154572834242571",
+"FalseID": "815154565195759656"
+},
+
+"EmojiSayı": {
+"sifir": "<a:sayi_0:824647144686092299> ",
+"bir": "<a:sayi_1:824646758993887302>",
+"iki": "<a:sayi_2:824646789041881159>",
+"uc": "<a:sayi_33:824646810080378921>",
+"dort": "<a:sayi_4:824646915684696084>",
+"bes": "<a:sayi_5:824646935800971295>",
+"alti": "<a:sayi_6:824646955098570813>",
+"yedi": "<a:sayi_7:824647035188674611>",
+"sekiz": "<a:sayi_8:824647075345072199>",
+"dokuz": "<a:sayi_9:824647110238142494>"
+}
+
+
+}
